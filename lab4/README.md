@@ -1,16 +1,43 @@
-# lab4
+# Flutter Lab Tasks  
 
-A new Flutter project.
+This folder contains three different Flutter UI tasks completed as part of my Flutter lab. Each task demonstrates various Flutter UI elements, including text fields, buttons, icons, nested widgets, and scrollable layouts.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Task 1: Simple UI  
+A basic Flutter interface featuring:  
+- A **TextField** for user input  
+- A **Button** for user interaction  
+- Multiple **Icons** to enhance UI  
 
-A few resources to get you started if this is your first Flutter project:
+### Screenshot  
+![Simple UI](assets/task1.png)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Task 2: Instagram Clone (Static UI)  
+A more complex UI resembling an Instagram-like interface.  
+- **Nested Widgets** for structured layout  
+- **Non-scrollable** design  
+- Focused on UI positioning and styling  
+
+### Screenshot  
+![Instagram Clone](assets/task2.png)  
+
+---
+
+## 📌 Task 3: Music App UI  
+A scrollable UI for a music app.  
+- **ListView** for dynamic scrolling  
+- **Cards** to display music tracks  
+- **Nested Widgets** for a structured layout  
+
+### Screenshot  
+![Music App](assets/task3-1.png)  
+---
+![Music App](assets/task3-2.png) 
+---
+
+## 📌 Notes  
+- These tasks focus on **Flutter UI development** and do not include backend functionality.  
+
