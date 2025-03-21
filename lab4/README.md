@@ -11,7 +11,7 @@ A basic Flutter interface featuring:
 - Multiple **Icons** to enhance UI  
 
 ### Screenshot  
-![Simple UI](assets/task1.png)  
+<img src="assets/task1.png" alt="Simple UI" width="400"/>
 
 ---
 
@@ -22,7 +22,7 @@ A more complex UI resembling an Instagram-like interface.
 - Focused on UI positioning and styling  
 
 ### Screenshot  
-![Instagram Clone](assets/task2.png)  
+<img src="assets/task2.png" alt="Instagram Clone" width="400"/>
 
 ---
 
@@ -33,11 +33,11 @@ A scrollable UI for a music app.
 - **Nested Widgets** for a structured layout  
 
 ### Screenshot  
-![Music App](assets/task3-1.png)  
----
-![Music App](assets/task3-2.png) 
+<img src="assets/task3-1.png" alt="Music App" width="400"/>  
+<br>  
+<img src="assets/task3-2.png" alt="Music App" width="400"/>  
+
 ---
 
 ## 📌 Notes  
 - These tasks focus on **Flutter UI development** and do not include backend functionality.  
-
